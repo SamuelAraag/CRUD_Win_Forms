@@ -1,0 +1,125 @@
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.exe
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.deps.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.Form1.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.Form1.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.exe
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.deps.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\Nova pasta\CRUD1\ProjetoVisualStudio\CRUD\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.exe
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.deps.json
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\ref\CRUD.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.pdb
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.Form1.resources
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+C:\Users\SamuelAraag\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.exe
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.deps.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\ref\CRUD.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.pdb
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.Form1.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+G:\Meu Drive\Faculdade\Estácio\Analise e desenvolvimento\Primeiro_Programa\C#\Projetos\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.exe
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.deps.json
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.runtimeconfig.json
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\ref\CRUD.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\CRUD.pdb
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.Properties.Resources.resources
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.AssemblyInfo.cs
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.csproj.CopyComplete
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\ref\CRUD.dll
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.pdb
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.genruntimeconfig.cache
+\\Mac\Home\Desktop\CRUD\src\CRUD\obj\Debug\net6.0-windows\CRUD.FormularioDeClientes.resources
